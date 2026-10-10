@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DeskBuddy AI (Windows 11)
 
 A beginner-friendly desktop assistant prototype:
@@ -66,3 +67,7 @@ Use a key from your provider's official dashboard. API usage is usually billed s
 - Speech recognition requires internet.
 - The optional AI feature needs a separate API key and may incur charges.
 - Only listed/known apps are launched for safety; arbitrary shell commands are not executed.
+=======
+# DeskBuddy-AI
+A desktop cartoon AI assistant with voice commands, app launching, and music-reactive animation.
+>>>>>>> c18cc978db73333d572f66e062cb4b3ef821730a
